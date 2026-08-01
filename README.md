@@ -4,10 +4,6 @@
 
 - Input and Output
 
-- Variables and Data Types
-
-- Operators
-
 - Conditional Statements
 
 - Loops
