@@ -11,4 +11,13 @@ A collection of basic C programming assignments.
 | **Assignment 3** | [`A3.c`](./A3.c) | Generate multiplication table for a number |
 | **Assignment 4** | [`A4.c`](./A4.c) | Calculate employee gross and net salary with tax deductions |
 | **Assignment 5** | [`A5.c`](./A5.c) | Matrix operations (Addition, Saddle Point, Inverse, Magic Square) |
+| **Assignment 6** | [`A6_recursive.c`](./A6_recursive.c), [`A6_nonrecursive.c`](./A6_nonrecursive.c) | Compute factorial with and without recursion |
+| **Assignment 8** | [`A8.c`](./A8.c) | Student result computation with grade assignment (Distinction/Divisions) |
+| **Assignment 9** | [`A9.c`](./A9.c) | Check whether a given number is an Armstrong number |
+| **Assignment 10** | [`A10.c`](./A10.c) | Simple calculator with arithmetic, power (xʸ), and factorial (x!) operations |
+| **Assignment 11** | [`A11.c`](./A11.c) | Perform mathematical operations on a number (square root, square, cube, prime check, factorial, and prime factors) |
+| **Assignment 12** | [`A12.c`](./A12.c) | Find the smallest common divisor (other than 1) and the Greatest Common Divisor (GCD) of two numbers |
+| **Assignment 13** | [`A13.c`](./A13.c) | Reverse the digits of a given number |
+| **Assignment 14** | [`A14.c`](./A14.c) | Convert a binary number to its decimal equivalent |
+| **Assignment 15** | [`A15.c`](./A15.c) | Generate pseudo-random numbers |
 
