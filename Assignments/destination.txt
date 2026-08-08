@@ -1,0 +1,4 @@
+C programming is a powerful, general-purpose language developed by Dennis Ritchie at Bell Labs. 
+It is known for its efficiency, speed, and close-to-hardware capabilities, making it widely used for system programming, operating systems, and embedded applications. 
+C provides features like pointers, structures, and manual memory management, giving programmers strong control over resources. 
+It forms the foundation for many modern languages such as C++, Java, and Python.

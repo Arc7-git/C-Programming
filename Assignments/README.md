@@ -20,4 +20,11 @@ A collection of basic C programming assignments.
 | **Assignment 13** | [`A13.c`](./A13.c) | Reverse the digits of a given number |
 | **Assignment 14** | [`A14.c`](./A14.c) | Convert a binary number to its decimal equivalent |
 | **Assignment 15** | [`A15.c`](./A15.c) | Generate pseudo-random numbers |
+| **Assignment 16** | [`A16.c`](./A16.c) | Separate array elements into even and odd numbers |
+| **Assignment 17** | [`A17.c`](./A17.c) | Compute the sum of the sine series for a given number of terms |
+| **Assignment 18** | [`A18.c`](./A18.c) | String operations without built-in functions (length, reversal, equality, palindrome) |
+| **Assignment 19** | [`A19.c`](./A19.c) | Employee structure with gender count, salary filter, and designation search |
+| **Assignment 20** | [`A20.c`](./A20.c) | Swap two numbers with and without using pointers |
+| **Assignment 21** | [`A21.c`](./A21.c) | Copy contents of one file to another using file handling |
+| **Assignment 22** | [`A22.c`](./A22.c) | Menu-driven string operations using built-in functions (length, copy, concatenation, comparison) |
 
