@@ -48,12 +48,6 @@ The program checks major fixed expenses and provides warnings when:
     * stdlib.h
     * math.h
 
-📂 Project Structure
-
-PROJECT/
-│
-├── personal_budgeting.c
-└── README.md
 
 🚀 How to Run
 
@@ -97,7 +91,7 @@ Fixed Expenses
 Disposable Income
       ↓
  ┌───────────────┬────────────────┬─────────────────┐
- │ Build Budget  │ Financial Score │   Debt Ratio    │
+ │ Build Budget  │ Financial Score│   Debt Ratio    │
  └───────────────┴────────────────┴─────────────────┘
 
 📊 Budgeting Methods
